@@ -34,6 +34,7 @@ main {
 
 .container h2 {
     font-size: 22.5px;
+    color: hsl(218, 44%, 22%);
     margin: 20px 0 0 0;
 }
 
